@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "calibrate"]
+	path = calibrate
+	url = https://github.com/cran/calibrate
+	shallow = true
+	registered = true
+[submodule "Correlplot"]
+	path = Correlplot
+	url = https://github.com/cran/Correlplot
+	shallow = true
+	registered = true
+[submodule "HardyWeinberg"]
+	path = HardyWeinberg
+	url = https://github.com/cran/HardyWeinberg
+	shallow = true
+	registered = true
+[submodule "MLpreemption"]
+	path = MLpreemption
+	url = https://github.com/cran/MLpreemption
+	shallow = true
+	registered = true
+[submodule "ToolsForCoDa"]
+	path = ToolsForCoDa
+	url = https://github.com/cran/ToolsForCoDa
+	shallow = true
+	registered = true
