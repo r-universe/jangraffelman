@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "calibrate"]
-	path = calibrate
-	url = https://github.com/cran/calibrate
 [submodule "Correlplot"]
 	path = Correlplot
 	url = https://github.com/cran/Correlplot
@@ -17,3 +14,6 @@
 [submodule "ToolsForCoDa"]
 	path = ToolsForCoDa
 	url = https://github.com/cran/ToolsForCoDa
+[submodule "calibrate"]
+	path = calibrate
+	url = https://github.com/cran/calibrate
