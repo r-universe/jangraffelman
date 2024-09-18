@@ -8,6 +8,9 @@
 [submodule "HardyWeinberg"]
 	path = HardyWeinberg
 	url = https://github.com/cran/HardyWeinberg
+[submodule "Jacquard"]
+	path = Jacquard
+	url = https://github.com/cran/Jacquard
 [submodule "MLpreemption"]
 	path = MLpreemption
 	url = https://github.com/cran/MLpreemption
